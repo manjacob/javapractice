@@ -1,0 +1,8 @@
+
+public class MyThing
+{
+  
+  public static void main (String []args){
+    
+  }
+}
